@@ -4,4 +4,22 @@ body{
 
 .orange-bg{
     background-color: #fceae8;
+    border-radius: 20px;
+}
+
+.row{
+    margin: 50px 50px;
+}
+
+.container{
+    margin-bottom: 100px;
+}
+
+.buy-now-button{
+    background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
+    border: none;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
 }
