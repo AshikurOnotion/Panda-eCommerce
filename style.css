@@ -11,7 +11,7 @@ body{
 
 
 .container{
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     
 }
 
@@ -48,3 +48,40 @@ body{
     width: 100px;
 }
 
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.shoes h5,p{
+    text-align: center;
+
+}
+
+.shoes button{
+    background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
+    position: relative;
+    left: 120px;
+    border: none;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.bags button{
+    background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
+    position: relative;
+    left: 120px;
+    border: none;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+
+    }
+
+.bags h5,p{
+    text-align: center;
+
+}
