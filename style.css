@@ -85,3 +85,14 @@ body{
     text-align: center;
 
 }
+.footer {
+    background-color: #FEEAE9
+   
+}
+
+.footer{
+    height: 300px;
+}
+.footer h6{
+    color:gray
+}
